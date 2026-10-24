@@ -1,0 +1,14 @@
+Hello, how are you?
+I am fine, thank you.
+What is your name?
+My name is John.
+How old are you?
+I am 20 years old.
+What is your favorite color?
+My favorite color is blue.
+What is your favorite food?
+My favorite food is pizza.
+What is your favorite animal?
+My favorite animal is dog.
+What is your favorite book?
+My favorite book is The Great Gatsby.
